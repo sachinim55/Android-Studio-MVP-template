@@ -1,6 +1,7 @@
 # Android Studio MVP Template
 
 This is an Android Studio template for MVP. 
+This is really helpful.
 
 It is inspired by [u2020-mvp-android-studio-template](https://github.com/LiveTyping/u2020-mvp-android-studio-template) and follows [Antonio Leiva's MVP implementation guide for Android](http://antonioleiva.com/mvp-android/). It also implements presenter surviving orientation changes following [Antonio Gutierrez's article](https://medium.com/@czyrux/presenter-surviving-orientation-changes-with-loaders-6da6d86ffbbf).
 
